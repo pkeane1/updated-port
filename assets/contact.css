@@ -1,0 +1,32 @@
+body { 
+    background: url(https://cdn.pixabay.com/photo/2016/07/07/01/16/abstract-1501710_960_720.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  h2,label {
+    font-family: 'Roboto Slab', serif;
+  }
+
+  form {
+      background-color: white;
+      opacity: 1;
+    animation: fade 4s linear;
+}
+
+
+@keyframes fade {
+  0%,100% { opacity: 0 }
+  100% { opacity: 1 }
+}
+
+
+  .navbar {
+    background-color: rgba(1, 50, 67, 1);
+  }
+
+  .btn {
+      background-color: rgba(1, 50, 67, 1);
+  }
