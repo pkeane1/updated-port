@@ -15,3 +15,21 @@
     -o-background-size: cover;
     background-size: cover;
   }
+
+  footer {
+    padding: 30px 0;
+    margin-top: 30px;
+    clear: both;
+    font-size: 12px;
+    color: #ffffff;
+    color: #cccccc;
+    text-align: center;
+    background:  rgba(1, 50, 67, 1);
+    border-top: 8px solid  rgba(1, 50, 67, 1);
+    height: 50px;
+  }
+
+  h2 {
+      font-family: 'Alegreya SC', serif;
+      font-size: 50px;
+    }
